@@ -23,17 +23,33 @@ We do **not** share your data with third parties because we do **not** collect a
 
 ## 3. Data Storage
 
-All content and activity within Lynk are stored **locally on your device**. You have full control over your data, and it is never uploaded or synced to any external cloud service by Lynk except if you allow to sync with iCloud.
+All content and activity within Lynk are stored **locally on your device**. You have full control over your data, and it is never uploaded or synced to any external cloud service by Lynk. **Any data synchronization is handled through your personal iCloud account if you choose to enable this feature.**
 
-## 4. Your Privacy by Design
+## 4. Security
+
+Lynk includes an optional security feature that allows users to enable **biometric authentication** (such as Face ID or fingerprint recognition) to access the app.
+
+- This feature is **entirely optional** and only activated if you explicitly opt in.
+- Biometric data is handled securely by your device’s operating system and is **never accessed or stored** by Lynk.
+
+We take reasonable precautions to help you protect access to your content, but **security also depends on your device’s settings and usage**.
+
+## 5. User Responsibility
+
+By using Lynk, you acknowledge that:
+- You are solely responsible for the content you create, store, or share using the app.
+- You should not store sensitive or confidential data unless you are confident in your device’s security.
+- Lynk provides local-only storage and does not offer backups, it is your responsibility to back up any important data manually.
+
+## 6. Your Privacy by Design
 
 Lynk is designed with privacy in mind. We believe in a minimal-permission, local-first approach that keeps your work private and secure.
 
-## 5. Changes to This Policy
+## 7. Changes to This Policy
 
 If our practices ever change, we will update this Privacy Policy accordingly and publish it through our social media platforms.
 
-## 6. Contact Us
+## 8. Contact Us
 
 If you have any questions about this Privacy Policy, feel free to contact us at:
 
