@@ -15,4 +15,6 @@ That’s Lynk.
 
 ### Code
 
-This Project will be open source and available to the public. I'm still working on the refactoering to make sure it is good to share with everyone
+This Project will be open source and available to the public.
+
+> I'm still working on the refactoring to make sure it is good to share with everyone
