@@ -23,9 +23,10 @@
 
 <img width="250" alt="Simulator Screenshot - iPhone 16 Pro - 2025-09-04 at 13 21 33" src="https://github.com/user-attachments/assets/26a1836a-100b-41f0-8cab-71e56889346c" />
 
-2. You are now able to open your saved link, delete it or just admire it😌
+2. You are now able to open your saved link, delete it or just admire 😌
 
 ### Notification
 
 When you set a reminder before bookmarking the link, you get a beautiful Notification on your device. You should make sure to enable notification for the app.
 
+<img width="250" alt="Simulator Screenshot - iPhone 16 Pro - 2025-08-26 at 22 34 10" src="https://github.com/user-attachments/assets/93fbc38d-55b8-47fe-9be1-6154451be18c" />
