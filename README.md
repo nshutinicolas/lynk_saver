@@ -1,10 +1,12 @@
 ## Lynk
 
-Lynk is a minimal, privacy-focused app that makes it easy to save and share text and URLs. Whether you're collecting notes, saving important links, or quickly sharing something with a friend, Lynk keeps everything local and secure — nothing leaves your device.
+Lynk is a minimal, privacy-focused app that makes it easy to save and share text and URLs. Whether you're collecting notes, saving important links, or quickly sharing something with a friend, we keep everything in your iCloud.
 
 📎 Save and organize text or URLs
 
-🔐 Everything stays on your device
+🔐 Everything stays on your iCloud
+
+⏰ Get reminded to get back to that article you set for later
 
 🚫 No accounts, no tracking, no ads
 
